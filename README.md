@@ -14,15 +14,9 @@
 <br>
 
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanentity&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanentity&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanentity&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanentity&layout=compact" />
 </p>
-
-## 🔥 Streak
-  <img src="https://streak-stats.demolab.com?user=ayanentity&theme=tokyonight" />
-</p>
-
-
 
 
 
