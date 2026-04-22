@@ -1,15 +1,29 @@
-## Hi, I'm Ayanentity ！！！
+
+
+<h1> Hi, I'm Ayanentity ！</h1><br>
+ものづくりの場では、デザイナーを担当してます.チームで何かを作ることが大好きです
+<br>
+
+<h3>【Portfolio Site】これまでの作品はこちら 👀</h3>
+
+<a href="https://ayanentity.com">
+  <img src="https://ayanentity.com/ogp.png" width="500" />
+</a>
+
+<br>
+<br>
 
 <p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=ayanentity&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanentity&layout=compact&theme=tokyonight" />
 </p>
 
-
-
 ## 🔥 Streak
   <img src="https://streak-stats.demolab.com?user=ayanentity&theme=tokyonight" />
 </p>
+
+
+
 
 
 <!--
