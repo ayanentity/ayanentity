@@ -1,10 +1,27 @@
 
 
-<h1> Hi, I'm Ayanentity ！</h1><br>
-ものづくりの場では、デザイナーを担当してます.チームで何かを作ることが大好きです
+# Hi, I'm Ayanentity   
+### I’m a Designer
+
+ものづくりの場では、デザイナーを担当しています  
+チームで何かを作り上げることが大好きです！！ハッカソン大好き！！
+
+
+最近は、  **自分でデザインし、自分で実装までできる = プロダクトを最後まで作って提案できる人**  になりたくて、iOS開発の勉強を始めました
+notionに学んだことを記録しています 
+
+
+<a href="https://www.notion.so/33b8b263f8f280a59959eb0da1a2ad80?v=4256a4b5db384295b36414c9f03b343b&source=copy_link" target="_blank">
+  🍎 iOS Study Log on Notion
+</a>
+
 <br>
 
-<h3>【Portfolio Site】これまでの作品はこちら 👀</h3>
+
+
+
+
+<h3>【Portfolio Site】これまでの作品はこちらから！ </h3>
 
 <a href="https://ayanentity.com">
   <img src="https://ayanentity.com/ogp.png" width="500" />
