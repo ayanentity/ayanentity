@@ -17,26 +17,22 @@ notionに学んだことを記録しています
 </a>
 
 <br>
+<br>
 
 
 
+## Portfolio Site
 
-
-<h3>【Portfolio Site】これまでの作品はこちらから！ </h3>
+https://ayanentity.com
 
 <a href="https://ayanentity.com">
-  <img src="https://ayanentity.com/ogp-v2.png" width="500" />
+  <img
+    width="800"
+    alt="Ayanentity Portfolio"
+    src="https://github.com/user-attachments/assets/f8028e1a-d745-4a75-bb54-5e502365c991"
+  />
 </a>
 
-<br>
-<br>
-
-<p align="left"> 
-  <img height="150px"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayanentity&layout=compact&theme=onedark" />
-  <img height="150px"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayanentity&theme=onedark&show_icons=true" />
-</p>
 
 
 <!--
