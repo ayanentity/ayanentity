@@ -25,7 +25,7 @@ notionに学んだことを記録しています
 <h3>【Portfolio Site】これまでの作品はこちらから！ </h3>
 
 <a href="https://ayanentity.com">
-  <img src="https://ayanentity.com/ogp.png" width="500" />
+  <img src="https://ayanentity.com/ogp-v2.png" width="500" />
 </a>
 
 <br>
