@@ -27,7 +27,7 @@ https://ayanentity.com
 
 <a href="https://ayanentity.com">
   <img
-    width="800"
+    width="720"
     alt="Ayanentity Portfolio"
     src="https://github.com/user-attachments/assets/f8028e1a-d745-4a75-bb54-5e502365c991"
   />
