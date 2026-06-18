@@ -6,17 +6,6 @@
 
 プロダクトデザイン・開発が大好きです！</br>
 最近は「デザインするだけではなく、プロダクトをつくれる人」になりたくて、iOS開発の勉強を始めました
-</br>
-notionに学んだことを記録しています 
-
-
-<a href="https://www.notion.so/33b8b263f8f280a59959eb0da1a2ad80?v=4256a4b5db384295b36414c9f03b343b&source=copy_link" target="_blank">
-  🍎 iOS Study Log on Notion
-</a>
-
-<br>
-<br>
-
 
 
 ## Portfolio Site
@@ -31,19 +20,21 @@ https://ayanentity.com
   />
 </a>
 
+</br>
 
-
-<!--
-**ayanentity/ayanentity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <img
+        height="160"
+        src="https://github-readme-stats.vercel.app/api?username=ayanentity&count_private=true&show_icons=true&theme=cobalt2"
+      />
+    </td>
+    <td>
+      <img
+        height="160"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanentity&theme=cobalt2&layout=compact"
+      />
+    </td>
+  </tr>
+</table>
