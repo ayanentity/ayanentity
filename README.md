@@ -22,19 +22,8 @@ https://ayanentity.com
 
 </br>
 
-<table>
-  <tr>
-    <td>
-      <img
-        height="160"
-        src="https://github-readme-stats.vercel.app/api?username=ayanentity&count_private=true&show_icons=true&theme=cobalt2"
-      />
-    </td>
-    <td>
-      <img
-        height="160"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanentity&theme=cobalt2&layout=compact"
-      />
-    </td>
-  </tr>
-</table>
+
+<img
+  height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanentity&theme=cobalt2&layout=compact"
+/>
