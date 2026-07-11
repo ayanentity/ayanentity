@@ -22,8 +22,3 @@ https://ayanentity.com
 
 </br>
 
-
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanentity&theme=cobalt2&layout=compact"
-/>
